@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Graziele Santos.
+- 👋 Hi, I’m Graziele C Santos.
 - 👀 I’m interested in Quality Assurance.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on mobile and web automation using Selenium, Appium and Python. Besides that, I would like to collaborate with Python projects in order to improve my skills in this language.
