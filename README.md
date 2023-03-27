@@ -11,6 +11,7 @@
        - BrowserStack device farm.
      - API:
        - RestAssured with Java;
+       - Behave with Python;
        - Postman with Newman.       
 - 📫 How to reach me: grazielegrc@yahoo.com.br
 
