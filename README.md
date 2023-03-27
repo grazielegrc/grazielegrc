@@ -1,7 +1,14 @@
 - 👋 Hi, I’m Graziele C Santos.
-- 👀 I’m interested in Quality Assurance.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on mobile and web automation using Selenium, Appium and Python. Besides that, I would like to collaborate with Python projects in order to improve my skills in this language.
+- 👀 I’ve been working with Quality Assurance for more than 10 years.
+- 🌱 I’m currently acting with Web and API automated tests.
+- 💞️ I have experience using the following automation tools and languages:
+      - Web: 
+        - Capybara with Ruby;
+        - Selenium with Cucumber and Python;
+        - Selenium with Specflow and C#;        
+      - Mobile:
+        - Appium with Python;
+        - BrowserStack device farm.
 - 📫 How to reach me: grazielegrc@yahoo.com.br
 
 <!---
