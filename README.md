@@ -12,7 +12,11 @@
      - API:
        - RestAssured with Java;
        - Behave with Python;
-       - Postman with Newman.       
+       - Postman with Newman. 
+       - Restsharp with C#
+     - Integration
+       - Pester framework to validate Azure IoT Hub DPS using Azure CLI  
+           
 - 📫 How to reach me: grazielegrc@yahoo.com.br
 
 <!---
