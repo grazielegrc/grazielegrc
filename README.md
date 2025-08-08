@@ -15,7 +15,9 @@
        - Postman with Newman. 
        - Restsharp with C#
      - Integration
-       - Pester framework to validate Azure IoT Hub DPS using Azure CLI  
+       - Pester framework to validate Azure IoT Hub DPS using Azure CLI
+     - Back-end
+       - JUnit 5 for Java
            
 - 📫 How to reach me: grazielegrc@yahoo.com.br
 
