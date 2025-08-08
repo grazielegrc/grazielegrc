@@ -19,7 +19,8 @@
      - Back-end
        - JUnit 5 for Java
            
-- 📫 How to reach me: [Linkedin](https://linkedin.com/in/graziele-cristina-dos-santos)
+- 📫 How to reach me:
+  <a href="[https://example.com](https://linkedin.com/in/graziele-cristina-dos-santos)" target="_blank">Linkedin</a>
 
 <!---
 grazielegrc/grazielegrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
