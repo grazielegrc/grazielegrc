@@ -2,10 +2,11 @@
 - 🤓 I’ve been working with Quality Assurance for more than 10 years.
 - 💻 I’m currently acting with Web and API automated tests.
 - 🎯 I have experience using the following automation tools and languages:
-     - Web: 
-       - Capybara with Ruby;
+     - Web:
+       - Playwright with JavaScript;       
        - Selenium with Cucumber and Python;
-       - Selenium with Specflow and C#.        
+       - Selenium with Specflow and C#;
+       - Capybara with Ruby.    
      - Mobile:
        - Appium with Python;
        - BrowserStack device farm.
@@ -17,7 +18,7 @@
      - Integration
        - Pester framework to validate Azure IoT Hub DPS using Azure CLI
      - Back-end
-       - JUnit 5 for Java
+       - JUnit 5 with Java
            
 - 📫 How to reach me:
   <a href="https://linkedin.com/in/graziele-cristina-dos-santos" target="_blank">Linkedin</a>
