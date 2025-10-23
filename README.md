@@ -16,6 +16,8 @@
        - Postman with Newman. 
        - Restsharp with C#
        - Supertest + Jest
+     - ETL testing:
+       - Python + pandas + pytest      
      - Integration
        - Pester framework to validate Azure IoT Hub DPS using Azure CLI
      - Back-end
