@@ -23,7 +23,7 @@
      - Back-end
        - JUnit 5 with Java
            
-- 📫 How to reach me:
+- 📫 Reach me at:
   <a href="https://linkedin.com/in/graziele-cristina-dos-santos" target="_blank">Linkedin</a>
 
 <!---
